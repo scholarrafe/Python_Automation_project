@@ -1,4 +1,4 @@
-# Project Name: Python Automation File Organizer
+# Project Name: Python Automation File - Organizer
 
 ## Description:
 The File Organizer is a Python script designed to automatically organize files in a specified directory into different folders based on their file types. It helps maintain a tidy file structure by sorting files such as images, videos, audio files, documents, applications, and zip files into separate folders. This project utilizes the Watchdog library for monitoring file system events and provides a scalable solution for keeping directories organized and clutter-free.
